@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vibe Clothing</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Vibe Clothing</h1>
+  <nav>
+  <ul>
+    <li><a href="index.html?page=home">Home</a></li>
+    <li><a href="about.html?page=about">About</a></li>
+    <li><a href="contact.html?page=contact">Contact</a></li>
+  </ul>
+</nav>
+  </header>
+
+  <section id="main-content">
+    <!-- Your main content goes here -->
+  </section>
+
+  <footer>
+    <!-- Your footer content goes here -->
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
